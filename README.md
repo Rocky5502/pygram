@@ -1,2 +1,0 @@
-# pygram
-An instagram clone
